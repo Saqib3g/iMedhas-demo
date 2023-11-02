@@ -1,2 +1,2 @@
 # iMedhas-demo
-Demo repository
+Demo Repository
